@@ -7,7 +7,7 @@ const App = () => {
   return (
     <div className='App'>
       <div className='gradient__bg'>
-        <Route index element={<Portfolio />}/>
+        <Route index element={<App />}/>
         <NavBar />
         <Header />
 
